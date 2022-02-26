@@ -1,0 +1,18 @@
+Winwheel.js - feature packed JavaScript library that allows you to easily create spinning Prize Wheels on HTML5 canvas using highly configurable JavaScript classes.
+Version 2.7.0
+https://www.npmjs.com/package/winwheeljs
+npm install winwheel --save
+
+Version 2.8.0
+https://www.npmjs.com/package/@shubhrank/winwheeljs
+npm i @shubhrank/winwheeljs
+
+Animation System:
+The animation system in the Winwheel library uses Greensock's Animation Platform for features like spinning while slowing down, etc.
+Download here: https://greensock.com/docs/v3/Installation
+
+CSS clip-path maker:
+https://bennettfeely.com/clippy/
+
+Helps with color-picking:
+https://www.colorhexa.com/f8d7d5

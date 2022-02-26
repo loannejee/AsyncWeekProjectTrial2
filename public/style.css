@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-Color: #f8d7d5;
 }
 
 a {
@@ -18,4 +19,52 @@ nav a {
 form div {
   margin: 1em;
   display: inline-block;
+}
+
+#canvasContainer {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+#myCanvas {
+  z-index: 1;
+}
+
+#prizePointer {
+  position: absolute;
+  width:65px;
+  height:65px;
+  top:-35px;
+  z-index: 999;
+}
+
+#stand {
+  height: 25px;
+  width: 400px;
+  background-color: #4d4d4d;
+  position: absolute;
+  z-index: 999;
+  bottom: -90px;
+  border-radius: 5px;
+}
+
+#standleg {
+  height: 180px;
+  width: 225px;
+  background-color: #333333;
+  position: absolute;
+  bottom: -90px;
+  clip-path: polygon(23% 0, 78% 0, 100% 100%, 0% 100%);
+}
+
+input {
+  padding: 0.1em;
+  margin: 0.1em 0;
+  font-size: 1em;
+}
+
+button {
+  font-size: 1em;
 }

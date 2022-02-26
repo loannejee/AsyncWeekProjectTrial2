@@ -1,5 +1,8 @@
 # FS-App-Template
 
+ASYNC WEEK PROJECT PROGRESS VIDEO HERE:
+https://youtu.be/UxqKwsYkaYk?t=462
+
 ## Setup
 
 To use this as boilerplate, you'll need to take the following steps:

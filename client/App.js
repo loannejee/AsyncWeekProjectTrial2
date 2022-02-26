@@ -1,13 +1,13 @@
 import React from 'react'
 
-import Navbar from './components/Navbar'
-import Routes from './Routes'
+import Wheel from './components/Wheel'
+
 
 const App = () => {
+
   return (
     <div>
-      <Navbar />
-      <Routes />
+      <Wheel />
     </div>
   )
 }
